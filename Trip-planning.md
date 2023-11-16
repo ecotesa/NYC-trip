@@ -5,7 +5,6 @@
 ##### At day:
     - BestBuy: 5Av 44st, https://maps.app.goo.gl/9gvRgqne3BUpgZhJA
     - Independent: MMC Plaza
-    - Independent: 
     - Independent: Empire State Building | day+night
     - Independent: Harry Potter: The Exhibition New York City
     - CityPass: Harry Potter and the Fantastic Beasts Walking Tour
