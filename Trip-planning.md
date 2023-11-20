@@ -16,17 +16,22 @@
 ##### At day:
     - Independent: Central Park walk
     - CityPass: American Museum of Natural History
+    - Independent | 20:00: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
+    - Independent: Columbus Circle
+##### Suggested:
+    - Independent: Metropolitan Museum of Art
 ##### At night:
     - Independent: Times Square walk
 
 ---
 #### Day 3 - Tuesday `Dec-05`
 ##### At day:
-    - Independent: Statue of Liberty and Ellis Island Ferry
+    - Independent: Statue of Liberty and Ellis Island
     - Independent: China town walk
     - Independent: Little italy walk
-    - Independent: Wall St. walkImage
-    - CityPass: 9/11 Memorial and Museum Tickets
+    - Independent: Wall St. walk
+    - CityPass: 9/11 Memorial and Museum
+    - Independent: Battery Park
 ##### At night:
     - Independent: Pier 17 (Puente brooklyn)
 
@@ -89,3 +94,28 @@
     - ???
 ##### At night:
     - 20:00 Move to JFK Airport
+
+
+
+# -------------
+The High Line
+Chelsea Market
+Whitney Museum of American Art
+Greenwich Village
+Washington Square Park
+# -------------
+Brooklyn Bridge
+Brooklyn Heights Promenade
+Brooklyn Museum
+Prospect Park
+Barclays Center
+# -------------
+Grand Central Terminal
+New York Public Library
+Bryant Park
+Fifth Avenue
+Times Square
+# -------------
+# -------------
+# -------------
+
