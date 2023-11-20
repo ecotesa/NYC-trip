@@ -3,7 +3,7 @@
 ---
 #### Day 1 - Sunday `Dec-03`
 ##### At day:
-    - BestBuy: 5Av 44st, https://maps.app.goo.gl/9gvRgqne3BUpgZhJA
+    - 10:00 | BestBuy: 5Av 44st, https://maps.app.goo.gl/9gvRgqne3BUpgZhJA
     - Independent: MMC Plaza
     - Independent: Empire State Building | day+night
     - Independent: Harry Potter: The Exhibition New York City
@@ -14,12 +14,11 @@
 ---
 #### Day 2 - Monday `Dec-04`
 ##### At day:
-    - Independent: Central Park walk
-    - CityPass: American Museum of Natural History
-    - Independent | 20:00: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
-    - Independent: Columbus Circle
-##### Suggested:
-    - Independent: Metropolitan Museum of Art
+    - 07:00 | Independent: Columbus Circle
+    - 07:30 | Independent: Central Park walk
+    - 09:00 | Independent: Belvedere Castle
+    - 10:00 | CityPass: American Museum of Natural History
+    - 20:00 | Independent: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
 ##### At night:
     - Independent: Times Square walk
 
