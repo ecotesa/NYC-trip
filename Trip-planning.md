@@ -8,7 +8,7 @@
     - Independent: Grand Central
     - Independent: Harry Potter: The Exhibition New York City
 ##### At night:
-    - Independent: Times Square walk
+    - Independent: Broadway and Times Square walk
 
 ---
 #### Day 2 - Monday `Dec-04`
@@ -34,7 +34,6 @@
 ---
 #### Day 4 - Wednesday `Dec-06`
 ##### At day:
-    - CityPass: Edge
     - CityPass: Intrepid Sea, Air and Space Museum and Space Shuttle
     - Independent: National Museum of Mathematics
     - Independent: St. Patrick's Cathedral
@@ -52,23 +51,21 @@
     - Independent: ferry desde Brooklyn Bridge Park a Williamsburg, Brooklyn
     - Independent: Fotos en Williamsburg
 ##### At night:
+    - Independent: Balloon Museum
+    - Independent: Pier 35 (hamacas por el baloom)
     - Independent: Botanic garden Lightscape 6pm (closes 20:30)
 
 ---
 #### Day 6 - Friday `Dec-08`
 ##### At day:
-    - CityPass: Top of the Rock Observatory
     - CityPass: 9/11 Memorial and Museum
     - Independent: 5th Ave walk
     - Maybe: 6th Ave walk
 ##### At night:
-    - Independent: Pier 35 (hamacas por el baloom)
-    - Independent: Balloon Museum
-
+    - ???
 ---
 #### Day 7 - Saturday `Dec-09`
 ##### At day:
-    - Independent: SUMMIT One Vanderbilt
     - CityPass: One World Observatory
     - Independent: Mall of the Edge
     - Independent: 5th Ave walk
@@ -81,8 +78,9 @@
 ##### At day:
     - CityPass: Museum of Modern Art (MoMA)
     - CityPass - Tentative: The FRIENDS Experience: The One
+    - 15:30 | Independent: SUMMIT One Vanderbilt
 ##### At night:
-    - ???
+    - --:-- | Independent: SUMMIT One Vanderbilt
 
 ---
 #### Day 9 - Monday `Dec-11`
