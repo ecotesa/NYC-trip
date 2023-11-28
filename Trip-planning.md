@@ -17,7 +17,7 @@
     - 07:30 | Independent: Central Park walk
     - 09:00 | Independent: Belvedere Castle
     - 10:00 | CityPass: American Museum of Natural History
-    - 20:00 | Independent: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
+    - 20:00 | Reservado: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
 ##### At night:
 
 ---
@@ -78,9 +78,9 @@
 ##### At day:
     - CityPass: Museum of Modern Art (MoMA)
     - CityPass - Tentative: The FRIENDS Experience: The One
-    - 15:30 | Independent: SUMMIT One Vanderbilt
+    - 15:30 | Reservado: SUMMIT One Vanderbilt
 ##### At night:
-    - --:-- | Independent: SUMMIT One Vanderbilt
+    - --:-- | Reservado: SUMMIT One Vanderbilt
 
 ---
 #### Day 9 - Monday `Dec-11`
