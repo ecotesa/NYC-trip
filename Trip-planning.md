@@ -16,7 +16,7 @@
     - 07:00 | Independent: Columbus Circle
     - 07:30 | Independent: Central Park walk
     - 09:00 | Independent: Belvedere Castle
-    - 10:00 | CityPass: American Museum of Natural History
+    - 10:00 | Reserved: American Museum of Natural History
     - 20:00 | Reserved: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
 ##### At night:
 
