@@ -17,8 +17,8 @@
     - 07:30 | Independent: Central Park walk
     - 09:00 | Independent: Belvedere Castle
     - 10:00 | Reserved: American Museum of Natural History
-    - 20:00 | Reserved: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
 ##### At night:
+    - 20:00 | Reserved: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
 
 ---
 #### Day 3 - Tuesday `Dec-05`
@@ -59,7 +59,7 @@
 ---
 #### Day 6 - Friday `Dec-08`
 ##### At day:
-    - CityPass: 9/11 Memorial and Museum
+    - Independent: 9/11 Memorial and Museum
     - Independent: 5th Ave walk
     - Maybe: 6th Ave walk
 ##### At night:
@@ -67,7 +67,7 @@
 ---
 #### Day 7 - Saturday `Dec-09`
 ##### At day:
-    - CityPass: One World Observatory
+    - Independent: One World Observatory
     - Independent: Mall of the Edge
     - Independent: 5th Ave walk
     - Maybe: 6th Ave walk
@@ -77,8 +77,8 @@
 ---
 #### Day 8 - Sunday `Dec-10`
 ##### At day:
-    - CityPass: Museum of Modern Art (MoMA)
-    - CityPass - Tentative: The FRIENDS Experience: The One
+    - Independent: Museum of Modern Art (MoMA)
+    - Tentative: The FRIENDS Experience: The One
     - 15:30 | Reserved: SUMMIT One Vanderbilt
 ##### At night:
     - --:-- | Reserved: SUMMIT One Vanderbilt
