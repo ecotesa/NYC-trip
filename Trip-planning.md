@@ -36,6 +36,7 @@
 ##### At day:
     - CityPass: Intrepid Sea, Air and Space Museum and Space Shuttle
     - Independent: National Museum of Mathematics
+    - 16:00 | Reserved: The Edge
     - Independent: St. Patrick's Cathedral
 ##### At night:
     - Independent: Rockefeller Center (ice skate)
