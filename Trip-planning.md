@@ -35,9 +35,9 @@
 #### Day 4 - Wednesday `Dec-06`
 ##### At day:
     - CityPass: Intrepid Sea, Air and Space Museum and Space Shuttle
-    - Independent: National Museum of Mathematics
-    - 16:00 | Reserved: The Edge
     - Independent: St. Patrick's Cathedral
+    - 16:00 | Reserved: The Edge
+    - 18:30 | Independent: National Museum of Mathematics
 ##### At night:
     - Independent: Rockefeller Center (ice skate)
     - Independent: Bryant Park (ice skate)
