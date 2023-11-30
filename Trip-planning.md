@@ -17,25 +17,27 @@
     - 07:30 | Independent: Central Park walk
     - 09:00 | Independent: Belvedere Castle
     - 10:00 | Reserved: American Museum of Natural History
+    - 11:30 | Reserved: American Museum of Natural History - Planetary
 ##### At night:
     - 20:00 | Reserved: Moor Mother and The Caretaker/Unsound at Lincoln Center for the Performing Arts
 
 ---
 #### Day 3 - Tuesday `Dec-05`
 ##### At day:
-    - Independent: Statue of Liberty and Ellis Island
-    - Independent: China town walk
-    - Independent: Little italy walk
-    - Independent: Wall St. walk
-    - Independent: Battery Park
+    - 08:00 | Independent: Battery Park
+    - 09:00 | Reserved: Statue of Liberty and Ellis Island
+    - 13:00 | Independent: China town walk
+    - 15:00 | Independent: Wall St. walk
+    - 16:00 | Independent: Little italy walk
 ##### At night:
     - Independent: Pier 17 (Puente brooklyn)
 
 ---
 #### Day 4 - Wednesday `Dec-06`
 ##### At day:
-    - CityPass: Intrepid Sea, Air and Space Museum and Space Shuttle
-    - Independent: St. Patrick's Cathedral
+    - 10:00 | Independent: Intrepid Sea, Air and Space Museum and Space Shuttle
+    - 13:00 | Independent: St. Patrick's Cathedral
+    - 13:30 | Independent: National Museum of Mathematics
     - 16:00 | Reserved: The Edge
     - 18:30 | Independent: National Museum of Mathematics
 ##### At night:
