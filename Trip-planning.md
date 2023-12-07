@@ -27,25 +27,30 @@
     - 08:00 | Independent: Battery Park
     - 09:00 | Reserved: Statue of Liberty and Ellis Island
     - 13:00 | Independent: China town walk
-    - 15:00 | Independent: Wall St. walk
-    - 16:00 | Independent: Little italy walk
 ##### At night:
     - Independent: Pier 17 (Puente brooklyn)
 
 ---
 #### Day 4 - Wednesday `Dec-06`
 ##### At day:
-    - 10:00 | Independent: Intrepid Sea, Air and Space Museum and Space Shuttle
-    - 13:00 | Independent: St. Patrick's Cathedral
-    - 13:30 | Independent: National Museum of Mathematics
+    - 10:00 | Independent: 9/11 museum 
+    - Independent: St. Patrick's Cathedral
     - 16:00 | Reserved: The Edge
-    - 18:30 | Independent: National Museum of Mathematics
+    - Independent: Mall of the Edge
 ##### At night:
     - Independent: Rockefeller Center (ice skate)
     - Independent: Bryant Park (ice skate)
 
 ---
 #### Day 5 - Thrusday (Brooklyn) `Dec-07`
+##### At day:
+    - Independent: Apple store
+    - Independent: Wall St. walk
+    - Independent: Little italy walk
+    - Independent: National Museum of Mathematics 
+
+---
+#### Day 6 - Friday `Dec-08`
 ##### At day:
     - Independent: South Street Seaport
     - Independent: Puente de Brooklyn
@@ -59,28 +64,16 @@
     - Independent: Botanic garden Lightscape 6pm (closes 20:30)
 
 ---
-#### Day 6 - Friday `Dec-08`
-##### At day:
-    - Independent: 9/11 Memorial and Museum
-    - Independent: 5th Ave walk
-    - Maybe: 6th Ave walk
-##### At night:
-    - ???
----
 #### Day 7 - Saturday `Dec-09`
 ##### At day:
-    - Independent: One World Observatory
-    - Independent: Mall of the Edge
-    - Independent: 5th Ave walk
-    - Maybe: 6th Ave walk
+    - ??? 
 ##### At night:
     - ???
 
 ---
 #### Day 8 - Sunday `Dec-10`
 ##### At day:
-    - Independent: Museum of Modern Art (MoMA)
-    - Tentative: The FRIENDS Experience: The One
+
     - 15:30 | Reserved: SUMMIT One Vanderbilt
 ##### At night:
     - --:-- | Reserved: SUMMIT One Vanderbilt
