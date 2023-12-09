@@ -47,7 +47,6 @@
     - Independent: Apple store
     - Independent: Wall St. walk
     - Independent: Little italy walk
-    - Independent: National Museum of Mathematics 
 
 ---
 #### Day 6 - Friday `Dec-08`
@@ -66,9 +65,14 @@
 ---
 #### Day 7 - Saturday `Dec-09`
 ##### At day:
-    - ??? 
+    - Independent: WTC photo
+    - Independent: Roosevelt Island
+    - Independent: Shopping VS
+    - Independent: Lunch Steak House
+    - Independent: National Museum of Mathematics
+    - Independent: Shopping HP
 ##### At night:
-    - ???
+    - NJ
 
 ---
 #### Day 8 - Sunday `Dec-10`
